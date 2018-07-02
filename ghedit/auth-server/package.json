@@ -1,0 +1,13 @@
+{
+  "name": "github-auth",
+  "description": "GHEdit GitHub authentication server",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spiffcode/ghedit.git"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^0.1.1"
+  }
+}
